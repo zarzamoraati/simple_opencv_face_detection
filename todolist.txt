@@ -1,0 +1,11 @@
+1. Capture frame from video 
+
+2. Process Frames
+
+3. Extract faces
+
+4. Get Embeddings
+
+5. Train Model
+
+6. Implement Detection
